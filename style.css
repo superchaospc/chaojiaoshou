@@ -73,6 +73,10 @@ h1 {
   line-height: 1.6;
 }
 
+.contact {
+  width: max-content;
+}
+
 .platforms {
   display: flex;
   align-items: center;
@@ -92,7 +96,7 @@ h1 {
 
 .wechat-qr {
   display: block;
-  width: 144px;
+  width: 100%;
   height: auto;
   margin-top: 1.5rem;
   border-radius: 6px;
