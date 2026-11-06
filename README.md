@@ -20,7 +20,7 @@ python3 -m http.server 8000 --bind 127.0.0.1
 | 字体、配色、二维码尺寸和手机布局 | [style.css](style.css) |
 | 桌面和手机人像 | [横版照片](assets/slate-landscape.jpg)、[竖版照片](assets/slate-portrait.jpg) |
 | 微信联系方式 | [二维码](assets/wechat-qr.svg) |
-| 浏览器标签页图标 | [icon.svg](icon.svg) |
+| 浏览器标签页图标 | [favicon.ico](favicon.ico) |
 
 替换二维码后，可从桌面和手机预览各截一张图，用微信识别，确认打开的是正确的联系人。
 
