@@ -1,6 +1,6 @@
 # 超叫兽 · Professor Chao
 
-超叫兽的个人主页，关注中国创作者的内容出海。[访问 chaojiaoshou.com](https://chaojiaoshou.com/)
+超叫兽的个人主页，助力中国创作者的内容出海。[访问 chaojiaoshou.com](https://chaojiaoshou.com/)
 
 首页是一张单屏名片。桌面横向排列个人简介和场记板人像，手机上使用竖版照片。简介下方展示六个内容平台的单色图标，访客可以扫描微信二维码添加好友。
 
