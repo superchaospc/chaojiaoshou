@@ -73,6 +73,23 @@ h1 {
   line-height: 1.6;
 }
 
+.platforms {
+  display: flex;
+  align-items: center;
+  gap: clamp(16px, 1.6vw, 24px);
+  list-style: none;
+  padding: 0;
+  margin: 1.35rem 0 0;
+  color: #b8b8be;
+}
+
+.platforms svg {
+  display: block;
+  width: 21px;
+  height: 21px;
+  fill: currentColor;
+}
+
 @media (min-aspect-ratio: 2/1) and (min-width: 701px) {
   picture img { object-fit: contain; object-position: center; }
 }
