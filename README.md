@@ -1,4 +1,4 @@
-# 超叫兽 · Professor Chao
+# 超叫兽 · chaojiaoshou
 
 内容出海专家 · 助力中国创作者的内容出海
 
